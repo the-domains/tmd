@@ -1,4 +1,3 @@
-layout_spectrum: 0.528002078877762
 typography_spectrum: 0.9424404916353524
 color:
   brandStrength: 0.13270740723237395
@@ -11,4 +10,6 @@ color:
     - '#ADA598'
     - '#DCD4C7'
     - '#B63717'
+layout_spectrum: 0.528002078877762
 name: TMD
+description: punch above your weight
