@@ -1,0 +1,14 @@
+layout_spectrum: 0.528002078877762
+typography_spectrum: 0.9424404916353524
+color:
+  brandStrength: 0.13270740723237395
+  lightness: 0.9428503764793277
+  saturation: 0.4520912505686283
+  rhythmicContrast: 0.3952612765133381
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: TMD
